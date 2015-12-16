@@ -1,0 +1,13 @@
+{
+  "name": "CatWars",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "fs": "0.0.2",
+    "path": "^0.12.7",
+    "react-native": "^0.15.0"
+  }
+}
